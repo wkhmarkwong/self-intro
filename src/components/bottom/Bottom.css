@@ -1,0 +1,12 @@
+.bottom-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.image-bottom {
+  width: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
+}

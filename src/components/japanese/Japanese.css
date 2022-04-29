@@ -1,0 +1,24 @@
+.japanese-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* logo */
+.japanese-left {
+  flex-basis: 0;
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.japanese-logo {
+  width: 300px;
+}
+
+/* word */
+.japanese-right {
+  flex-basis: 0;
+  flex-grow: 2;
+}

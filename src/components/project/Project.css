@@ -1,0 +1,10 @@
+/* project-title: 150% + h5 */
+.project-title {
+  font-size: 150%;
+}
+
+.each-project {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid black;
+}

@@ -1,0 +1,28 @@
+.wrapper {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  overflow: hidden;
+  word-break: break-all;
+  text-align: center;
+}
+
+.greeting {
+  animation: appear-animation 2s forwards;
+  opacity: 0;
+  text-align: center;
+}
+
+.name {
+  border-top: 1px solid white;
+  animation: appear-animation 6s forwards;
+  opacity: 0;
+  text-align: center;
+}
+
+@keyframes appear-animation {
+  100% {
+    opacity: 1;
+  }
+}

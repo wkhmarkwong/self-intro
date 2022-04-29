@@ -1,0 +1,24 @@
+.leetcode-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* word */
+.leetcode-left {
+  flex-basis: 0;
+  flex-grow: 2;
+}
+
+/* logo */
+.leetcode-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-basis: 0;
+  flex-grow: 1;
+}
+
+.leetcode-logo {
+  width: 300px;
+}
