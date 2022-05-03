@@ -8,7 +8,7 @@ const skillset = () => {
         <>
           <h5 className="paragraph">Proficient: ReactJS, Javascript, Python</h5>
           <h5 className="paragraph">
-            Familiar: Node.js, Express.js, MongoDB, Java, MySQL
+            Good Understanding: Node.js, Express.js, MongoDB, Java, MySQL
           </h5>
         </>
       </div>
