@@ -2,12 +2,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url("../../image/leetcode-record-blur.jpg");
 }
 
 /* word */
 .leetcode-left {
   flex-basis: 0;
   flex-grow: 2;
+  color: white;
 }
 
 /* logo */

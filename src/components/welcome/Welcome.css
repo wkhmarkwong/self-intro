@@ -1,17 +1,17 @@
 .wrapper {
-  position: relative;
+  height: 500px;
+  background-image: url("../../image/programming-blur.jpg");
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  align-items: flex-end;
-  overflow: hidden;
-  word-break: break-all;
-  text-align: center;
 }
 
 .greeting {
   animation: appear-animation 2s forwards;
   opacity: 0;
   text-align: center;
+  color: white;
+  font-size: 500%;
 }
 
 .name {
@@ -19,6 +19,8 @@
   animation: appear-animation 6s forwards;
   opacity: 0;
   text-align: center;
+  color: white;
+  font-size: 300%;
 }
 
 @keyframes appear-animation {

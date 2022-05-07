@@ -4,7 +4,7 @@ import Github from "../../image/github_logo.png";
 
 const Bottom = () => {
   return (
-    <div className="container">
+    <div className="container" id="more-info">
       <div className="content">
         <h5 className="centered-word">
           Find out more about me by clicking the below icons:

@@ -3,7 +3,7 @@ import Logo from "../../image/japan-society-logo.png";
 
 const Japanese = () => {
   return (
-    <div className="container japanese-block">
+    <div className="container japanese-block interest-block-description">
       <div className="japanese-left">
         <img src={Logo} alt="not found" className="japanese-logo" />
       </div>

@@ -3,8 +3,8 @@ import Logo from "../../image/leetcode_logo.png";
 
 const Leetcode = () => {
   return (
-    <div className="container leetcode-block">
-      <div className="leetcode-left paragraph">
+    <div className="container leetcode-block" id="hobby-session">
+      <div className="leetcode-left paragraph interest-block-description">
         <h3 className="sub-heading">Coding is my habit and interest!</h3>
 
         <ul>

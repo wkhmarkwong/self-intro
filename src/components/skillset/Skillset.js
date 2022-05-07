@@ -2,7 +2,7 @@ import "./Skillset.css";
 
 const skillset = () => {
   return (
-    <div className="container">
+    <div className="container" id="skill">
       <div className="content">
         <h3 className="sub-heading">My Skillset:</h3>
         <>
