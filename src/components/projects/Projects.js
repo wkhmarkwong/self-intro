@@ -91,7 +91,7 @@ const Project = () => {
           <ul>
             <li>
               <h5>
-                Cloned an app for users to share comments, photos with Google
+                Built an app for users to share comments, photos with Google
                 authentication login system
               </h5>
             </li>
