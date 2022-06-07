@@ -1,4 +1,4 @@
-import "./TopBar.css";
+import './TopBar.css';
 
 const TopBar = () => {
   return (
@@ -10,12 +10,19 @@ const TopBar = () => {
       <a href="#project" className="button">
         Project
       </a>
+
+      <a href="#jobExp" className="button">
+        Experience
+      </a>
+
       <a href="#skill" className="button">
         Skill
       </a>
+
       <a href="#hobby-session" className="button">
         Hobby
       </a>
+
       <a href="#more-info" className="button">
         More Info
       </a>

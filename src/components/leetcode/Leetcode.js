@@ -1,5 +1,5 @@
-import "./Leetcode.css";
-import Logo from "../../image/leetcode_logo.png";
+import './Leetcode.css';
+import Logo from '../../image/leetcode_logo.png';
 
 const Leetcode = () => {
   return (
@@ -8,14 +8,14 @@ const Leetcode = () => {
         <h3 className="sub-heading">Coding is my habit and interest!</h3>
 
         <ul>
-          <li>Joined 50+ contests, solved 600+ questions</li>
+          <li>Joined 50+ contests, solved 700+ questions</li>
           <li>
-            Highest rating achieved is 1865 and got "Knight badge" (best 25% in
-            the whole world)
+            Highest rating achieved is 1865 and got "Knight badge" (best 25%
+            globally)
           </li>
           <li>
             My philosophy is
-            <b style={{ color: "green" }}> "learn by teaching"</b>. I keep
+            <b style={{ color: 'violet' }}> "learn by teaching"</b>. I keep
             teaching the others what I know, no matter in algorithm area or
             writing projects.
           </li>
